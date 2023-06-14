@@ -1,0 +1,46 @@
+com.project.app-coordinatorlayout-1.1.0-0 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\100064e8591947015db57202c48b03b5\transformed\coordinatorlayout-1.1.0\res
+com.project.app-recyclerview-1.1.0-1 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\1967dc4abca49dbcf74acfa23ff78c51\transformed\recyclerview-1.1.0\res
+com.project.app-jetified-lifecycle-process-2.4.0-2 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\1b95d858a22d4bf984cc6ada22565853\transformed\jetified-lifecycle-process-2.4.0\res
+com.project.app-jetified-startup-runtime-1.0.0-3 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\1c1f2a7d85d831c60baf4c988b7f7cf3\transformed\jetified-startup-runtime-1.0.0\res
+com.project.app-jetified-appcompat-resources-1.4.1-4 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\2fda7921962007dc54cf1ab70bbab432\transformed\jetified-appcompat-resources-1.4.1\res
+com.project.app-transition-1.2.0-5 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\3869acb069a0b911788365e631eb1605\transformed\transition-1.2.0\res
+com.project.app-jetified-play-services-basement-18.1.0-6 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\40ba71404d666063daabc7fdd9ddb221\transformed\jetified-play-services-basement-18.1.0\res
+com.project.app-jetified-autofill-1.1.0-7 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\499fbc1fc7f47cedf9856494307d6852\transformed\jetified-autofill-1.1.0\res
+com.project.app-core-1.7.0-8 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\49bf7642bfa8da1113b246e10160e128\transformed\core-1.7.0\res
+com.project.app-jetified-drawee-2.6.0-9 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\4e1585510c97a8d667d1a9cb1996a896\transformed\jetified-drawee-2.6.0\res
+com.project.app-material-1.1.0-10 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\5b613036401334bebc2ca0a24262ffe4\transformed\material-1.1.0\res
+com.project.app-appcompat-1.4.1-11 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\5ecee120bf58f2b2517bc823038702e7\transformed\appcompat-1.4.1\res
+com.project.app-jetified-flipper-0.125.0-12 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\6076ff780e8646e9393f3326ae0aac94\transformed\jetified-flipper-0.125.0\res
+com.project.app-jetified-annotation-experimental-1.1.0-13 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\7e701cd77e8a3b6993bc327aff5e5e33\transformed\jetified-annotation-experimental-1.1.0\res
+com.project.app-jetified-core-ktx-1.6.0-14 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\8b40d9c276ff68fcc668f1ca37cc6043\transformed\jetified-core-ktx-1.6.0\res
+com.project.app-jetified-viewpager2-1.0.0-15 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\9670c8e06bacd909d7babc92fe927a0b\transformed\jetified-viewpager2-1.0.0\res
+com.project.app-jetified-play-services-base-18.1.0-16 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\af6d44686bb5bbc9dfd8871c01cebd5b\transformed\jetified-play-services-base-18.1.0\res
+com.project.app-fragment-1.3.6-17 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\b5f3de264b99d2d4984b74547d8239e1\transformed\fragment-1.3.6\res
+com.project.app-jetified-react-native-0.70.6-debug-18 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\b633b1ad47bf26fa5ca5aeb31fd22543\transformed\jetified-react-native-0.70.6-debug\res
+com.project.app-lifecycle-viewmodel-2.3.1-19 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\ba65f76851009c7aa2224379a878aae9\transformed\lifecycle-viewmodel-2.3.1\res
+com.project.app-lifecycle-runtime-2.4.0-20 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\bfa346ef1a2984c12ab7939ac98e4864\transformed\lifecycle-runtime-2.4.0\res
+com.project.app-jetified-savedstate-1.1.0-21 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\c36ccd9f9d6ecdec99b801707e7c2e62\transformed\jetified-savedstate-1.1.0\res
+com.project.app-cardview-1.0.0-22 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\c53e674ba5f288b3dff318c537e3b79b\transformed\cardview-1.0.0\res
+com.project.app-jetified-play-services-maps-18.0.2-23 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\d180b4bc83d96998efde7762bdee0e8e\transformed\jetified-play-services-maps-18.0.2\res
+com.project.app-jetified-emoji2-1.0.0-24 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\d227ca9e6f1fc830f43574cb8566ef22\transformed\jetified-emoji2-1.0.0\res
+com.project.app-jetified-emoji2-views-helper-1.0.0-25 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\e9ad266e78bba08b6ee4ac388fe2dc74\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.project.app-jetified-android-maps-utils-3.4.0-26 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\fad5d3c01d27d2f156a148d477fb91bf\transformed\jetified-android-maps-utils-3.4.0\res
+com.project.app-work-runtime-2.7.1-27 C:\Users\Syed Mubarak\.gradle\caches\transforms-3\fbe9d01e28dfd224c60fad140b958dcc\transformed\work-runtime-2.7.1\res
+com.project.app-pngs-28 E:\Fyp\Loader-Client-main\android\app\build\generated\res\pngs\debug
+com.project.app-react-29 E:\Fyp\Loader-Client-main\android\app\build\generated\res\react\debug
+com.project.app-resValues-30 E:\Fyp\Loader-Client-main\android\app\build\generated\res\resValues\debug
+com.project.app-rs-31 E:\Fyp\Loader-Client-main\android\app\build\generated\res\rs\debug
+com.project.app-mergeDebugResources-32 E:\Fyp\Loader-Client-main\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.project.app-mergeDebugResources-33 E:\Fyp\Loader-Client-main\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.project.app-merged_res-34 E:\Fyp\Loader-Client-main\android\app\build\intermediates\merged_res\debug
+com.project.app-debug-35 E:\Fyp\Loader-Client-main\android\app\src\debug\res
+com.project.app-main-36 E:\Fyp\Loader-Client-main\android\app\src\main\res
+com.project.app-packaged_res-37 E:\Fyp\Loader-Client-main\node_modules\@react-native-community\datetimepicker\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-38 E:\Fyp\Loader-Client-main\node_modules\react-native-geolocation-service\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-39 E:\Fyp\Loader-Client-main\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-40 E:\Fyp\Loader-Client-main\node_modules\react-native-image-picker\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-41 E:\Fyp\Loader-Client-main\node_modules\react-native-maps\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-42 E:\Fyp\Loader-Client-main\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-43 E:\Fyp\Loader-Client-main\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-44 E:\Fyp\Loader-Client-main\node_modules\react-native-snackbar\android\build\intermediates\packaged_res\debug
+com.project.app-packaged_res-45 E:\Fyp\Loader-Client-main\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug

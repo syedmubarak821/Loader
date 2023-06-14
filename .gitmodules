@@ -1,0 +1,13 @@
+[submodule "loader-client/Loader-Client"]
+	path = loader-client/Loader-Client
+	url = https://github.com/SE-Sanjay-Kumar/Loader-Client.git
+[submodule "loader-driver/Loader-driver"]
+	path = loader-driver/Loader-driver
+	url = https://github.com/SE-Sanjay-Kumar/Loader-driver.git
+	branch = driver-mode
+[submodule "loader-web/Loader-web"]
+	path = loader-web/Loader-web
+	url = https://github.com/SE-Sanjay-Kumar/Loader-web.git
+[submodule "loader-apis/Loader-apis"]
+	path = loader-apis/Loader-apis
+	url = https://github.com/SE-Sanjay-Kumar/Loader-apis.git
